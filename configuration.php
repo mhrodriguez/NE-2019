@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = 'Este sitio está cerrado por tareas de mantenimiento.<br />Por favor, inténtelo nuevamente más tarde.';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = 'DEMO NE - 2019';
+	public $sitename = 'NE-2019';
 	public $editor = 'tinymce';
 	public $captcha = '0';
 	public $list_limit = '20';
@@ -16,10 +16,10 @@ class JConfig {
 	public $host = 'localhost';
 	public $user = 'root';
 	public $password = 'root';
-	public $db = 'ne-2019-bd';
-	public $dbprefix = 'us051_';
+	public $db = 'ne2-2019';
+	public $dbprefix = 'ne_';
 	public $live_site = '';
-	public $secret = 'VH7Hr5CVp2O9a4Ky';
+	public $secret = 'zZsABBMqQXsGO1bn';
 	public $gzip = '0';
 	public $error_reporting = 'default';
 	public $helpurl = 'https://help.joomla.org/proxy?keyref=Help{major}{minor}:{keyref}&lang={langcode}';
@@ -33,7 +33,7 @@ class JConfig {
 	public $mailonline = '1';
 	public $mailer = 'mail';
 	public $mailfrom = 'systemas@gmail.com';
-	public $fromname = 'DEMO NE - 2019';
+	public $fromname = 'NE-2019';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '0';
 	public $smtpuser = '';
